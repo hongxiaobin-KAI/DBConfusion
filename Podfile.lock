@@ -1,0 +1,25 @@
+PODS:
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - LKDBHelper (2.5.3):
+    - LKDBHelper/standard (= 2.5.3)
+  - LKDBHelper/standard (2.5.3):
+    - FMDB
+
+DEPENDENCIES:
+  - FMDB
+  - LKDBHelper
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - FMDB
+    - LKDBHelper
+
+SPEC CHECKSUMS:
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  LKDBHelper: 26b47fdd6f4c800ef83c478554829ff8a1da20c5
+
+PODFILE CHECKSUM: a7c5e99a9547f1e71a5d25ba9f651848e563e323
+
+COCOAPODS: 1.9.1
